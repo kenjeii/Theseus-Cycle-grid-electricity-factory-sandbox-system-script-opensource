@@ -53,7 +53,7 @@ No `.meta` files, prefabs, scenes, textures, audio clips or project settings are
 In Unity, open **Window > Package Manager > + > Add package from git URL** and enter:
 
 ```text
-https://github.com/kenjeii/TheseusCycle-Unity-CoreSystems.git
+https://github.com/kenjeii/Theseus-Cycle-grid-electricity-factory-sandbox-system-script-opensource.git
 ```
 
 Or add this line to `Packages/manifest.json`:
@@ -61,7 +61,7 @@ Or add this line to `Packages/manifest.json`:
 ```json
 {
   "dependencies": {
-    "com.kenjeii.theseus-core-grid": "https://github.com/kenjeii/TheseusCycle-Unity-CoreSystems.git"
+    "com.kenjeii.theseus-core-grid": "https://github.com/kenjeii/Theseus-Cycle-grid-electricity-factory-sandbox-system-script-opensource.git"
   }
 }
 ```
