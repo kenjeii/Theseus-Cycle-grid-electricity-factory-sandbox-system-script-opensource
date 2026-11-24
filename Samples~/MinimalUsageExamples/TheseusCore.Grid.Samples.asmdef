@@ -1,0 +1,16 @@
+{
+  "name": "TheseusCore.Grid.Samples",
+  "rootNamespace": "TheseusCore.Grid.Samples",
+  "references": [
+    "TheseusCore.Grid"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": false,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

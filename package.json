@@ -1,0 +1,25 @@
+{
+  "name": "com.kenjeii.theseus-core-grid",
+  "version": "0.1.0",
+  "displayName": "Theseus Core - Grid Placement",
+  "description": "A decoupled, allocation-conscious grid placement and placeable object framework for Unity 2D projects.",
+  "unity": "2021.3",
+  "license": "MIT",
+  "author": {
+    "name": "Lei Yat Ming (kenjeii)"
+  },
+  "keywords": [
+    "grid",
+    "placement",
+    "2d",
+    "architecture",
+    "object-pool"
+  ],
+  "samples": [
+    {
+      "displayName": "Minimal usage examples",
+      "description": "Wire, pressure plate and teleport link behaviours implemented on top of the placeable contracts.",
+      "path": "Samples~/MinimalUsageExamples"
+    }
+  ]
+}
